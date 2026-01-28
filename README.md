@@ -30,9 +30,9 @@ Key Performance Indicators (KPIs): Əsas biznes göstəricilərinin izlənilməs
 Trend Analizi: Zamanla dəyişən tendensiyaların müəyyənləşdirilməsi.
 
 🚀 Quraşdırma və Baxış
-Layihəni yerli kompüterinizdə nəzərdən keçirmək üçün:
+Layihəni yerli kompüterinizdə nəzərdən keçirmək üçün: https://docs.google.com/spreadsheets/d/127sSwzBreVArAjc9dhnXrQQ3fu2eRi7h/edit?usp=drive_link&ouid=107493297989448365903&rtpof=true&sd=true
 
-Bu repozitoriyanı klonlayın: git clone [link]
+
 
 data/ qovluğundakı təmizlənmiş faylı açın.
 
