@@ -27,15 +27,7 @@ Dinamik Dashboard-lar: İstifadəçi seçiminə görə dəyişən vizuallar.
 
 Key Performance Indicators (KPIs): Əsas biznes göstəricilərinin izlənilməsi.
 
-Trend Analizi: Zamanla dəyişən tendensiyaların müəyyənləşdirilməsi.
 
 🚀 Quraşdırma və Baxış
 Layihəni yerli kompüterinizdə nəzərdən keçirmək üçün: https://docs.google.com/spreadsheets/d/127sSwzBreVArAjc9dhnXrQQ3fu2eRi7h/edit?usp=drive_link&ouid=107493297989448365903&rtpof=true&sd=true
-
-
-
-data/ qovluğundakı təmizlənmiş faylı açın.
-
-.pbix faylını Power BI Desktop-da işə salın.
-
 Qeyd: Bu layihə real data üzərində qurulduğu üçün Excel-in performans limitləri çərçivəsində optimallaşdırılmışdır.
